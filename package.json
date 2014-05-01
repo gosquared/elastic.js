@@ -29,7 +29,7 @@
     "name": "FullScale Labs, LLC",
     "url": "https://github.com/fullscale/elastic.js/blob/master/AUTHORS"
   },
-  "main": "elastic.js",
+  "main": "dist/elastic.js",
   "scripts": {
     "test": "grunt nodeunit",
     "prepublish": "cp dist/elastic.js ."
