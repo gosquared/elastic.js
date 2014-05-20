@@ -34,9 +34,7 @@
     "test": "grunt nodeunit",
     "prepublish": "cp dist/elastic.js ."
   },
-  "dependencies": {
-    "elasticsearch": "^2.1.6"
-  },
+  "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-concat": "~0.3.0",
