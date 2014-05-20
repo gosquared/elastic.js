@@ -35,8 +35,7 @@
     "prepublish": "cp dist/elastic.js ."
   },
   "dependencies": {
-    "elasticsearch": "*",
-    "colors": "~0.6"
+    "elasticsearch": "^2.1.6"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
